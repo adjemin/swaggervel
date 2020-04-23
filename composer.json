@@ -1,9 +1,13 @@
 {
-    "name": "appointer/swaggervel",
+    "name": "DarusX/swaggervel",
     "description": "A great way to integrate Swagger into Laravel",
     "keywords": ["laravel", "swagger", "documentation", "api"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Fabián Montero",
+            "email": "mntr_rdrgz@hotmail.com"
+        },
         {
             "name": "jlapp",
             "email": "jordan@jordanlapp.com"
